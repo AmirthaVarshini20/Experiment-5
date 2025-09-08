@@ -1,6 +1,7 @@
 # Experiment-5
-Name:AMIRTHA VARSHINI V
-Register Number:212224040021
+# Name:AMIRTHA VARSHINI V
+
+# Register Number:212224040021
 ## AIM:Write a python program for Binary Search and inspect for failures. 
 
 # ALGORITHM
